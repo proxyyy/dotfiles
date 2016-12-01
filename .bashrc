@@ -7,7 +7,6 @@
 #aliases
 alias yoyo='pacaur -S'
 alias nono='pacaur -Rns'
-alias sf='screenfetch -D arch'
 alias ls='ls --color=auto'
 alias please='sudo'
 alias fuck='sudo !!'
